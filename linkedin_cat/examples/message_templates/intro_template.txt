@@ -1,0 +1,16 @@
+# ================================================
+# 消息模板示例
+# ================================================
+# 支持的变量语法:
+#   {{name}}           - 必需变量
+#   {{name|default}}   - 带默认值的变量
+
+Hi {{name|there}},
+
+I came across your profile and was impressed by your experience at {{company|your company}}.
+
+As a {{sender_title|professional}} at {{sender_company|my company}}, I'm always looking to connect with talented individuals in the {{industry|tech}} space.
+
+I'd love to connect and perhaps exchange ideas about {{topic|industry trends}}.
+
+{{signature|Best regards!}}

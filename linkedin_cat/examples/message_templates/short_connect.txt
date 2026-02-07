@@ -1,0 +1,5 @@
+# ================================================
+# 简短连接请求模板
+# ================================================
+
+Hi {{name|there}}! I noticed we share an interest in {{interest|technology}}. Would love to connect and stay in touch.

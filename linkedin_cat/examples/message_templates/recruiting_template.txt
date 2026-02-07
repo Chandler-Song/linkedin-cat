@@ -1,0 +1,14 @@
+# ================================================
+# 招聘外联消息模板
+# ================================================
+
+Hi {{name|there}},
+
+I'm {{sender_name|a recruiter}} at {{company|a growing tech company}}, and I'm reaching out because your profile stood out to me.
+
+We're currently looking for a {{role|talented professional}} to join our team, and your experience in {{skill|your field}} seems like a great fit.
+
+Would you be open to a brief conversation to learn more about the opportunity?
+
+Best,
+{{sender_name|The Recruiting Team}}
